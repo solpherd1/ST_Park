@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": "2026-08-30T09:00:00.000Z",
+  "tasks": [
+    {
+      "id": "a1f0c2d4-0001",
+      "title": "회의 후속 조치 정리",
+      "status": "진행 중",
+      "priority": "높음",
+      "dueDate": "2026-08-30",
+      "memo": "가상 데이터",
+      "createdAt": "2026-08-28T01:00:00.000Z",
+      "updatedAt": "2026-08-29T02:00:00.000Z"
+    },
+    {
+      "id": "a1f0c2d4-0002",
+      "title": "주간 보고서 초안",
+      "status": "예정",
+      "priority": "보통",
+      "dueDate": "2026-08-29",
+      "memo": "",
+      "createdAt": "2026-08-27T01:00:00.000Z",
+      "updatedAt": "2026-08-27T01:00:00.000Z"
+    },
+    {
+      "id": "a1f0c2d4-0003",
+      "title": "견적서 검토",
+      "status": "완료",
+      "priority": "보통",
+      "dueDate": "2026-08-29",
+      "memo": "",
+      "createdAt": "2026-08-26T01:00:00.000Z",
+      "updatedAt": "2026-08-29T08:00:00.000Z"
+    },
+    {
+      "id": "a1f0c2d4-0004",
+      "title": "교육 자료 아이디어",
+      "status": "예정",
+      "priority": "낮음",
+      "dueDate": "",
+      "memo": "마감일 없음 사례",
+      "createdAt": "2026-08-25T01:00:00.000Z",
+      "updatedAt": "2026-08-25T01:00:00.000Z"
+    },
+    {
+      "id": "a1f0c2d4-0005",
+      "title": "거래처 미팅 준비",
+      "status": "예정",
+      "priority": "높음",
+      "dueDate": "2026-08-31",
+      "memo": "자료 3종",
+      "createdAt": "2026-08-29T01:00:00.000Z",
+      "updatedAt": "2026-08-29T01:00:00.000Z"
+    }
+  ]
+}
